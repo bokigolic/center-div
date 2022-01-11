@@ -3,11 +3,12 @@
 ## About
 Short overview, how to center a child giant in relation to a parent with help
 * transform: translate(-50%, -50%);
+
  and
  
  * position: relative; 
 
-``` addet to parent div```
+``` added to parent div```
  
  * position: absolute;
  * top:50%;
